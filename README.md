@@ -10,6 +10,12 @@
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://user-images.githubusercontent.com/61664693/116169137-b4d16500-a70c-11eb-86b9-304ea63ba9d1.png" width="40px"></img></a>
 <hr>
 
+<!-- <p>
+  <a href="https://github.com/ElifNidaKarakas?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifNidaKarakas&layout=compact&show_icons=true&theme=dracula">
+  </a>
+  </p> -->
+  
 <p align="center">
   <p>
     <a href="https://github.com/ElifNidaKarakas" target="_blank">
@@ -23,11 +29,7 @@
   </p>
 
 
-  <p>
-  <a href="https://github.com/ElifNidaKarakas?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifNidaKarakas&layout=compact&show_icons=true&theme=dracula">
-  </a>
-  </p>
+  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ElifNidaKarakas&theme=github)](https://github.com/ElifNidaKarakas)
 </div>
